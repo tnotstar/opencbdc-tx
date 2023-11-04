@@ -71,6 +71,79 @@ var annotated_dup =
         [ "tcp_listener", "classcbdc_1_1network_1_1tcp__listener.html", "classcbdc_1_1network_1_1tcp__listener" ],
         [ "tcp_socket", "classcbdc_1_1network_1_1tcp__socket.html", "classcbdc_1_1network_1_1tcp__socket" ]
       ] ],
+      [ "parsec", "namespacecbdc_1_1parsec.html", [
+        [ "agent", "namespacecbdc_1_1parsec_1_1agent.html", [
+          [ "rpc", "namespacecbdc_1_1parsec_1_1agent_1_1rpc.html", [
+            [ "client", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1client.html", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1client" ],
+            [ "exec_request", "structcbdc_1_1parsec_1_1agent_1_1rpc_1_1exec__request.html", "structcbdc_1_1parsec_1_1agent_1_1rpc_1_1exec__request" ],
+            [ "http_server", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1http__server.html", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1http__server" ],
+            [ "server", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1server.html", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1server" ],
+            [ "server_interface", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1server__interface.html", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1server__interface" ]
+          ] ],
+          [ "runner", "namespacecbdc_1_1parsec_1_1agent_1_1runner.html", [
+            [ "code_key", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1code__key.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1code__key" ],
+            [ "evm_access_tuple", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__access__tuple.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__access__tuple" ],
+            [ "evm_account", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__account.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__account" ],
+            [ "evm_dryrun_tx", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__dryrun__tx.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__dryrun__tx" ],
+            [ "evm_host", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host" ],
+            [ "evm_log", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__log.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__log" ],
+            [ "evm_log_index", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__log__index.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__log__index" ],
+            [ "evm_log_query", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__log__query.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__log__query" ],
+            [ "evm_pretend_block", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__pretend__block.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__pretend__block" ],
+            [ "evm_runner", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__runner.html", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__runner" ],
+            [ "evm_sig", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__sig.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__sig" ],
+            [ "evm_tx", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__tx.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__tx" ],
+            [ "evm_tx_receipt", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__tx__receipt.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__tx__receipt" ],
+            [ "factory", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1factory.html", null ],
+            [ "interface", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1interface.html", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1interface" ],
+            [ "lua_runner", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1lua__runner.html", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1lua__runner" ],
+            [ "storage_key", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1storage__key.html", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1storage__key" ]
+          ] ],
+          [ "impl", "classcbdc_1_1parsec_1_1agent_1_1impl.html", "classcbdc_1_1parsec_1_1agent_1_1impl" ],
+          [ "interface", "classcbdc_1_1parsec_1_1agent_1_1interface.html", "classcbdc_1_1parsec_1_1agent_1_1interface" ]
+        ] ],
+        [ "broker", "namespacecbdc_1_1parsec_1_1broker.html", [
+          [ "impl", "classcbdc_1_1parsec_1_1broker_1_1impl.html", "classcbdc_1_1parsec_1_1broker_1_1impl" ],
+          [ "interface", "classcbdc_1_1parsec_1_1broker_1_1interface.html", "classcbdc_1_1parsec_1_1broker_1_1interface" ]
+        ] ],
+        [ "directory", "namespacecbdc_1_1parsec_1_1directory.html", [
+          [ "impl", "classcbdc_1_1parsec_1_1directory_1_1impl.html", "classcbdc_1_1parsec_1_1directory_1_1impl" ],
+          [ "interface", "classcbdc_1_1parsec_1_1directory_1_1interface.html", "classcbdc_1_1parsec_1_1directory_1_1interface" ]
+        ] ],
+        [ "runtime_locking_shard", "namespacecbdc_1_1parsec_1_1runtime__locking__shard.html", [
+          [ "rpc", "namespacecbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc.html", [
+            [ "client", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1client.html", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1client" ],
+            [ "commit_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1commit__request.html", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1commit__request" ],
+            [ "finish_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1finish__request.html", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1finish__request" ],
+            [ "get_tickets_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1get__tickets__request.html", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1get__tickets__request" ],
+            [ "prepare_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1prepare__request.html", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1prepare__request" ],
+            [ "replicated_get_tickets_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1replicated__get__tickets__request.html", null ],
+            [ "replicated_prepare_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1replicated__prepare__request.html", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1replicated__prepare__request" ],
+            [ "rollback_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1rollback__request.html", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1rollback__request" ],
+            [ "server", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1server.html", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1server" ],
+            [ "try_lock_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1try__lock__request.html", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1try__lock__request" ]
+          ] ],
+          [ "controller", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1controller.html", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1controller" ],
+          [ "impl", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1impl.html", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1impl" ],
+          [ "interface", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1interface.html", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1interface" ],
+          [ "replicated_shard", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard.html", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard" ],
+          [ "replicated_shard_client", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard__client.html", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard__client" ],
+          [ "replicated_shard_interface", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard__interface.html", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard__interface" ],
+          [ "shard_error", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1shard__error.html", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1shard__error" ],
+          [ "state_machine", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1state__machine.html", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1state__machine" ],
+          [ "wounded_details", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1wounded__details.html", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1wounded__details" ]
+        ] ],
+        [ "ticket_machine", "namespacecbdc_1_1parsec_1_1ticket__machine.html", [
+          [ "rpc", "namespacecbdc_1_1parsec_1_1ticket__machine_1_1rpc.html", [
+            [ "client", "classcbdc_1_1parsec_1_1ticket__machine_1_1rpc_1_1client.html", "classcbdc_1_1parsec_1_1ticket__machine_1_1rpc_1_1client" ]
+          ] ],
+          [ "controller", "classcbdc_1_1parsec_1_1ticket__machine_1_1controller.html", "classcbdc_1_1parsec_1_1ticket__machine_1_1controller" ],
+          [ "impl", "classcbdc_1_1parsec_1_1ticket__machine_1_1impl.html", "classcbdc_1_1parsec_1_1ticket__machine_1_1impl" ],
+          [ "interface", "classcbdc_1_1parsec_1_1ticket__machine_1_1interface.html", "classcbdc_1_1parsec_1_1ticket__machine_1_1interface" ],
+          [ "state_machine", "classcbdc_1_1parsec_1_1ticket__machine_1_1state__machine.html", "classcbdc_1_1parsec_1_1ticket__machine_1_1state__machine" ]
+        ] ],
+        [ "config", "structcbdc_1_1parsec_1_1config.html", "structcbdc_1_1parsec_1_1config" ]
+      ] ],
       [ "raft", "namespacecbdc_1_1raft.html", [
         [ "rpc", "namespacecbdc_1_1raft_1_1rpc.html", [
           [ "server", "classcbdc_1_1raft_1_1rpc_1_1server.html", "classcbdc_1_1raft_1_1rpc_1_1server" ]
@@ -85,7 +158,13 @@ var annotated_dup =
         [ "async_server", "classcbdc_1_1rpc_1_1async__server.html", "classcbdc_1_1rpc_1_1async__server" ],
         [ "blocking_server", "classcbdc_1_1rpc_1_1blocking__server.html", "classcbdc_1_1rpc_1_1blocking__server" ],
         [ "client", "classcbdc_1_1rpc_1_1client.html", "classcbdc_1_1rpc_1_1client" ],
+        [ "curl_initializer", "classcbdc_1_1rpc_1_1curl__initializer.html", "classcbdc_1_1rpc_1_1curl__initializer" ],
+        [ "epoll_event_handler", "classcbdc_1_1rpc_1_1epoll__event__handler.html", "classcbdc_1_1rpc_1_1epoll__event__handler" ],
+        [ "event_handler", "classcbdc_1_1rpc_1_1event__handler.html", "classcbdc_1_1rpc_1_1event__handler" ],
         [ "header", "structcbdc_1_1rpc_1_1header.html", "structcbdc_1_1rpc_1_1header" ],
+        [ "json_rpc_http_client", "classcbdc_1_1rpc_1_1json__rpc__http__client.html", "classcbdc_1_1rpc_1_1json__rpc__http__client" ],
+        [ "json_rpc_http_server", "classcbdc_1_1rpc_1_1json__rpc__http__server.html", "classcbdc_1_1rpc_1_1json__rpc__http__server" ],
+        [ "kqueue_event_handler", "classcbdc_1_1rpc_1_1kqueue__event__handler.html", "classcbdc_1_1rpc_1_1kqueue__event__handler" ],
         [ "request", "structcbdc_1_1rpc_1_1request.html", "structcbdc_1_1rpc_1_1request" ],
         [ "response", "structcbdc_1_1rpc_1_1response.html", "structcbdc_1_1rpc_1_1response" ],
         [ "server", "classcbdc_1_1rpc_1_1server.html", "classcbdc_1_1rpc_1_1server" ],
@@ -159,9 +238,11 @@ var annotated_dup =
       [ "ostream_serializer", "classcbdc_1_1ostream__serializer.html", "classcbdc_1_1ostream__serializer" ],
       [ "overloaded", "structcbdc_1_1overloaded.html", null ],
       [ "random_source", "classcbdc_1_1random__source.html", "classcbdc_1_1random__source" ],
+      [ "rlp_value", "classcbdc_1_1rlp__value.html", "classcbdc_1_1rlp__value" ],
       [ "serializer", "classcbdc_1_1serializer.html", "classcbdc_1_1serializer" ],
       [ "size_serializer", "classcbdc_1_1size__serializer.html", "classcbdc_1_1size__serializer" ],
       [ "stream_serializer", "classcbdc_1_1stream__serializer.html", "classcbdc_1_1stream__serializer" ],
+      [ "thread_pool", "classcbdc_1_1thread__pool.html", "classcbdc_1_1thread__pool" ],
       [ "twophase_client", "classcbdc_1_1twophase__client.html", "classcbdc_1_1twophase__client" ]
     ] ]
 ];

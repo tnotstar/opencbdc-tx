@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['locking_5fshard_0',['locking_shard',['../classcbdc_1_1locking__shard_1_1locking__shard.html',1,'cbdc::locking_shard']]],
-  ['log_1',['log',['../classcbdc_1_1logging_1_1log.html',1,'cbdc::logging']]],
-  ['log_5fstore_2',['log_store',['../classcbdc_1_1raft_1_1log__store.html',1,'cbdc::raft']]]
+  ['json_5frpc_5fhttp_5fclient_0',['json_rpc_http_client',['../classcbdc_1_1rpc_1_1json__rpc__http__client.html',1,'cbdc::rpc']]],
+  ['json_5frpc_5fhttp_5fserver_1',['json_rpc_http_server',['../classcbdc_1_1rpc_1_1json__rpc__http__server.html',1,'cbdc::rpc']]]
 ];

@@ -12,5 +12,6 @@ var classcbdc_1_1buffer =
     [ "extend", "classcbdc_1_1buffer.html#a5ed13a2cb51fd228e8a5251f07ed7d7f", null ],
     [ "operator==", "classcbdc_1_1buffer.html#a1f00f1a81bcd1c222905a8e5285048ec", null ],
     [ "size", "classcbdc_1_1buffer.html#a965d671e743ead416c601696fcedbad1", null ],
-    [ "to_hex", "classcbdc_1_1buffer.html#a9360434d4bf3440f1d60a32aa3dd7d96", null ]
+    [ "to_hex", "classcbdc_1_1buffer.html#a9360434d4bf3440f1d60a32aa3dd7d96", null ],
+    [ "to_hex_prefixed", "classcbdc_1_1buffer.html#a43c97660b90e9e6b95b9b07cfb24b8b9", null ]
 ];

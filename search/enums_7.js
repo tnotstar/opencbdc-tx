@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['search_5fstatus_0',['search_status',['../namespacecbdc_1_1watchtower.html#a679b6303144dca836dbae72cd2dc1c94',1,'cbdc::watchtower']]]
+  ['output_5ferror_5fcode_0',['output_error_code',['../namespacecbdc_1_1transaction_1_1validation.html#ad0b22105b5a750786a167cb49773f797',1,'cbdc::transaction::validation']]]
 ];

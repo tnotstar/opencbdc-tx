@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['p2pk_0',['p2pk',['../namespacecbdc_1_1transaction_1_1validation.html#acc831384037ec60d9f910d1557c62bf1a6c273932270d3597a90936b79babc832',1,'cbdc::transaction::validation']]],
-  ['pending_1',['pending',['../namespacecbdc_1_1sentinel.html#a8582b428c6d5128e23402f95f03271e5a7c6c2e5d48ab37a007cbf70d3ea25fa4',1,'cbdc::sentinel']]],
-  ['prepare_2',['prepare',['../classcbdc_1_1coordinator_1_1distributed__tx.html#a71d5d6ecc78a28643c788acad88d506fa0ee63ccea22773b7b711a299adc32792',1,'cbdc::coordinator::distributed_tx::prepare()'],['../classcbdc_1_1coordinator_1_1state__machine.html#a291b285c01e4c4479dfe738e2b3e2d60a0ee63ccea22773b7b711a299adc32792',1,'cbdc::coordinator::state_machine::prepare()']]],
-  ['program_5fmismatch_3',['program_mismatch',['../namespacecbdc_1_1transaction_1_1validation.html#ac7b86a1bd611afcfc7c94ef2ef0c4218acc9a5daa7049b5173fdf2c993acb27b7',1,'cbdc::transaction::validation']]],
-  ['public_5fkey_4',['public_key',['../classcbdc_1_1client.html#abd8bdadd606140207fbc930f972cf9d3ae4afe26b5b57083f74b2d01c7066379c',1,'cbdc::client']]]
+  ['no_5fhistory_0',['no_history',['../namespacecbdc_1_1watchtower.html#a679b6303144dca836dbae72cd2dc1c94a8d9ceb84de115a7592d593018d152b94',1,'cbdc::watchtower']]],
+  ['no_5finputs_1',['no_inputs',['../namespacecbdc_1_1transaction_1_1validation.html#a982f8b38fb4c9ffa56d315d81a38860fa73977e6d26023339c042f7f54b830c6c',1,'cbdc::transaction::validation']]],
+  ['no_5foutputs_2',['no_outputs',['../namespacecbdc_1_1transaction_1_1validation.html#a982f8b38fb4c9ffa56d315d81a38860fa8f7d8fc2f9c837997760e331d41fc2b3',1,'cbdc::transaction::validation']]],
+  ['not_5fcommitted_3',['not_committed',['../namespacecbdc_1_1parsec_1_1runtime__locking__shard.html#a967978c3b1fa292a0bca5d8687c97deea6b36d0ce901efc15bc02658baf68a6f5',1,'cbdc::parsec::runtime_locking_shard']]],
+  ['not_5fprepared_4',['not_prepared',['../classcbdc_1_1parsec_1_1broker_1_1interface.html#aa376a0f5760fd2cba521620a7af84901ae4e252069247b24439c82292f71fac8c',1,'cbdc::parsec::broker::interface::not_prepared'],['../namespacecbdc_1_1parsec_1_1runtime__locking__shard.html#a967978c3b1fa292a0bca5d8687c97deeae4e252069247b24439c82292f71fac8c',1,'cbdc::parsec::runtime_locking_shard::not_prepared']]]
 ];
